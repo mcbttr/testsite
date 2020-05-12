@@ -1,0 +1,39 @@
+body {
+    background-image:  url("https://c.pxhere.com/photos/49/e0/canon_stars_flickr_explorer_deep_astro_astrophotography_universe-139553.jpg!d");
+    background-size: auto 100vh;
+    font-family: arial;
+    height: 100 vh
+  }
+  
+  .menu {
+     background-color:#DCDCDC;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li{
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: brown;
+    
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: gainsboro;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
